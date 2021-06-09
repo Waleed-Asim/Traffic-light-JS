@@ -1,0 +1,74 @@
+.container{
+    position: relative;
+}
+
+.trafic{
+    height: auto;
+    width: 700px;
+}
+
+.red {
+    position: absolute;
+    top: 25px;
+    right: 886px;
+    width: 160px;
+}
+
+.yellow {
+    position: absolute;
+    top: 185px;
+    right: 886px;
+    width: 160px;
+}
+
+.green {
+    position: absolute;
+    top: 344px;
+    right: 886px;
+    width: 160px;
+}
+
+#myVideo{
+    position: absolute;
+    top: 10px;
+    left: 750px;
+}
+
+#myVideo222{
+    position: absolute;
+    top: 188px;
+    left: 750px;
+}
+
+#hide{
+    position: absolute;
+    top: 10px;
+    left: 750px;
+    background-color: rgb(255, 255, 255);
+    height: 176px;
+    width: 320px;
+}
+
+#hide2{
+    position: absolute;
+    top: 188px;
+    left: 750px;
+    background-color: rgb(255, 255, 255);
+    height: 176px;
+    width: 320px;
+}   
+
+#myVideo3{
+    position: absolute;
+    top: 370px;
+    left: 750px;
+}
+
+#hide3{
+    position: absolute;
+    top: 370px;
+    left: 750px;
+    background-color: rgb(255, 255, 255);
+    height: 176px;
+    width: 320px;
+}   
